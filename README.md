@@ -35,7 +35,7 @@
     <br />
     <br />
     ·
-    <a href="https://github.com/CarterAWebb827/Audio-Modifier">View Demo</a>
+    <a href="https://www.youtube.com/watch?v=saL8Bms1VtI">View Demo</a>
     ·
   </p>
 </div>
@@ -76,9 +76,7 @@ This is a project i did with a classmate as a final assignment for a class I had
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps
-
-
+To get a local copy up and running follow these steps
 
 ### Prerequisites
 Some things you may need for the project include a terminal and/or a code editor with access to Git, C++, g++, and make. I would recommend using a WSL2 terminal, a Virtual Machine, or a Linux distribution OS.
@@ -158,8 +156,8 @@ Project Link: [https://github.com/CarterAWebb827/Audio-Modifier](https://github.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/CarterAWebb827/Audio-Modifier.svg?style=for-the-badge
-[contributors-url]: https://github.com/CarterAWebb827/Audio-Modifier/graphs/contributors
+[contributors-url]: https://github.com/1001-Lee-Vincent
 [license-shield]: https://img.shields.io/github/license/CarterAWebb827/Audio-Modifier.svg?style=for-the-badge
-[license-url]: https://github.com/CarterAWebb827/Audio-Modifier/blob/master/LICENSE.txt
+[license-url]: https://github.com/CarterAWebb827/Audio-Modifier/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/Carter Webb
+[linkedin-url]: https://www.linkedin.com/in/carter-webb-66b3661b4/
